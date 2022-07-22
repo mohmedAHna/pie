@@ -1,0 +1,15 @@
+This file is for the one who is make this repository a saver for the user time and who want to make there life faster and more enjoyable.
+Because this repository give you a priceless chance to 1) learn 2) serve the computer users and every Gnu/Linux user.
+So are you ready to accept this once in a life-time chance or you prefer some lazy life style over some good work to the society if you are in
+let's begin shall we.
+
+EXAMPLE:
+CASE:[X] TODO
+CASE: if it important or not important rated from 1 -> 10
+[X]: done
+[]: not done
+TODO: the mission or task that must happen according to the case
+END OF EXAMPLE
+
+======================= TODO start here =======================
+10: [] add a special file to use apt package manager known as aptpie.sh
