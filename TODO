@@ -12,4 +12,5 @@ TODO: the mission or task that must happen according to the case
 END OF EXAMPLE
 
 ======================= TODO start here =======================
-10: [] add a special file to use apt package manager known as aptpie.sh
+8: [] add a special file to use apt package manager known as aptpie.sh
+10: [] add a special file to setup and compile the right file according to user's Gnu/Linux system
